@@ -108,11 +108,10 @@ a {
     border: 0;
     border-radius: 5px;
 }
-.navigation-wrapper > .right-column > button.create span {
+.navigation-wrapper > .right-column > .button-create span {
     color: #47cf73 !important;
     font-weight: bolder;
 }
-
 
 .hero-content {
     display: flex;
