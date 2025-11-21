@@ -6,9 +6,6 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
-
-
-
 h1 {
     color: #fff;
     font-weight:200;
@@ -30,6 +27,7 @@ h3 {
 .blue-text {
     color: aqua;
 }
+
 .bold-text {
     font-weight: bolder;
 }
@@ -71,9 +69,6 @@ a {
     display: block;
 }
 
-   
-
-
 .navigation-wrapper > .center-column {
     display: flex;
     gap: 20px;
@@ -106,7 +101,7 @@ a {
     align-items: center;
 }
 
-.navigation-wrapper > .right-column > button.create, .button.login, button.sign-up {
+.navigation-wrapper > .right-column > .button-create, .button-login, .button-sign-up {
     color: #fff;
     background-color: #36454F;
     padding: 10px 15px;
