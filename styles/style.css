@@ -1,9 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body {
     color: #fff;
     background: linear-gradient(to bottom right, #555555, #111111);
     margin: 0px;
     padding: 0px;
     font-family: "Roboto", sans-serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
 }
 
 h1 {
@@ -32,10 +42,7 @@ h3 {
     font-weight: bolder;
 }
 
-a {
-    color: inherit;
-    text-decoration: none;
-}
+
 
 .navigation-wrapper {
     display: flex;
